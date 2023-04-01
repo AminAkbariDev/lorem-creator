@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/lorem-creator/static/css/main.1e23461f.css",
+    "main.js": "/github.io/lorem-creator/static/js/main.502acfc1.js",
+    "index.html": "/github.io/lorem-creator/index.html",
+    "main.1e23461f.css.map": "/github.io/lorem-creator/static/css/main.1e23461f.css.map",
+    "main.502acfc1.js.map": "/github.io/lorem-creator/static/js/main.502acfc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e23461f.css",
+    "static/js/main.502acfc1.js"
+  ]
+}
